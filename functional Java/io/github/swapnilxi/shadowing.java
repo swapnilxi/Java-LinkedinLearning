@@ -5,6 +5,7 @@ public class shadowing {
     public static void main(String[] args) {
         System.out.println(x=5);
         int x=40;//shadowing
+        
         System.out.println(x);
         //the variable will higher level scope is shadowed 
         fun();
