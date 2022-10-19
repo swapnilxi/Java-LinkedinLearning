@@ -1,3 +1,5 @@
+package io.github.swapnilxi;
+
 import java.util.Scanner;
 
 public class personalisedmes {
