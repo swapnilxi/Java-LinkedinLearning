@@ -2,5 +2,6 @@
     "java.project.sourcePaths": [
         "functional Java",
         "Java-Recursion"
-    ]
+    ],
+    "java.format.settings.url": "eclipse-formatter.xml"
 }
