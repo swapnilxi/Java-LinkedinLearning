@@ -1,7 +1,7 @@
 import java.util.ArrayList;
-import java.util.List;
 
-public class findElement {
+
+public class FindElement {
     public static void main(String[] args) {
      int[] arr={3,4,5,6,7,5};
      int target=5;

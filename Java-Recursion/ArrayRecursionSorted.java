@@ -1,8 +1,4 @@
-import java.io.Console;
-import java.lang.reflect.Array;
 import java.util.ArrayList;
-import java.util.List;
-
 public class ArrayRecursionSorted{
  public static void main(String[] args) { 
    int[] arr={1,2,3,3,4,6,5};//array
