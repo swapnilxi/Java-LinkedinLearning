@@ -21,7 +21,8 @@ public class FindElement {
        if(index==arr.length) return -1;
         if(arr[index]==target){ 
             return index;
-        } else{ return findIdx(arr, index+1, target);
+        } else{ 
+            return findIdx(arr, index+1, target);
         }
     }
 static ArrayList<Integer> list= new ArrayList<>();
