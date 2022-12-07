@@ -15,7 +15,7 @@ public class Nums
 	  increase(++n);//fuction 
 	 
 	 //decrese
-	 increase(++n);//functioncall
+	// increase(--n);//functioncall
      
 	 // stack -> out of stack -> condition satisfy print
 	 System.out.println(n);//print
