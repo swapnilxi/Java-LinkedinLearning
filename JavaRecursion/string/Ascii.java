@@ -1,4 +1,4 @@
-package subsequence;
+package string;
 public class Ascii {
     public static void main(String[] args) {
         char ch='a';

@@ -1,4 +1,4 @@
-package subsequence;
+package subset;
 public class permutations {
     public static void main(String[] args) {
         permutation("", "abc");
