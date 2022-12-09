@@ -1,5 +1,5 @@
 
-
+package basics;
 public class Nums
 {
 	public static void main(String[] args) {

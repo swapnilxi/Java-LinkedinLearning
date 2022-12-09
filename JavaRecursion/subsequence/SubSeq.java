@@ -1,3 +1,4 @@
+package subsequence;
 import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.List;
@@ -10,17 +11,13 @@ public class SubSeq {
         // subseq("", "abc");
     //    System.out.println( SubSeqArr("", "abc"));
        int[] nums={1,2,3};
-       int[] numsDup={1,2,2};
-    //    
+       int[] numsDup={1,2,2};  
     List<List<Integer>> ans= subseqIter2(numsDup);
        for(List<Integer> list: ans){
         System.out.println(list);
        }
-
-   
     }
 //iteratively
-
 static List<List<Integer>> subseqIter2(int[] arr){
       Arrays.sort(arr);//avoid duplication
         List<List<Integer>> outer = new ArrayList<>(); 
