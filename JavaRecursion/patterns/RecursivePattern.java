@@ -1,3 +1,4 @@
+package patterns;
 import java.util.Arrays;
 
 public class RecursivePattern {

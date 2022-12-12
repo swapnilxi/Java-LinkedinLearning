@@ -1,3 +1,4 @@
+package basics;
 public class fibonacciNum {
     public static void main(String[] args) {
         fibo(6);

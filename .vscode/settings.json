@@ -2,7 +2,8 @@
     "java.project.sourcePaths": [
         "functional Java",
         "Java-Recursion",
-        "JavaRecursion"
+        "JavaRecursion",
+        "."
     ],
     "java.format.settings.url": "eclipse-formatter.xml",
     "java.debug.settings.onBuildFailureProceed": true,
